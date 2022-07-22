@@ -1,0 +1,7 @@
+we learned today;
+
+from remote to local;
+
+fetch + update or pull
+
+and gitignore
